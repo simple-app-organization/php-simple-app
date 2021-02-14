@@ -8,6 +8,9 @@ You can change the content by editing the json files and the markdown of the 'da
 
 As an example, you can show, the [Demo App](http://magicianred.altervista.org/gigs/php-simple-app/).
 
+## Licences
+
+This project have **AGPL licence**, if you want a **MIT licence** go to this repository [*php-simple-mit-app*](https://github.com/simple-app-organization/php-simple-mit-app)
 
 ## Configuration  
 
